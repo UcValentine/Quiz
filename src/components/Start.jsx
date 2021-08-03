@@ -17,7 +17,7 @@ export default props => (
          
           <Item.Content>
             <Item.Header>
-              <h1 > Trivia Game</h1>
+              <h1 > Trivia Quiz</h1>
             </Item.Header>
             <br />
             <Item.Meta>
